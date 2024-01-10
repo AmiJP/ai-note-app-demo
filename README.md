@@ -83,4 +83,4 @@ Follow these steps to get the project up and running on your local machine:
 
 ## Demo
 
--![Demo Recording](https://github.com/AmiJP/openhouseAi-coding-exercise/assets/128651055/0e637692-d72b-4bb3-9d5e-04ed16411ace)
+![Demo Recording](https://github.com/AmiJP/openhouseAi-coding-exercise/assets/128651055/0e637692-d72b-4bb3-9d5e-04ed16411ace)
